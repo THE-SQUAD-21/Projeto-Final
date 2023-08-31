@@ -20,7 +20,7 @@ footer{
     grid-area: footer;
     color: white;
     text-align: center;
-    font-size: 10px;
+    font-size: 15px;
     height: 50px;
     padding-top: 20px;
 }
