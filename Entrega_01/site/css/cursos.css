@@ -34,12 +34,18 @@
     color: #1A3FAD;
 }
 
-footer{
-    background-color: #1A3FAD;
-    grid-area: footer;
-    color: white;
-    text-align: center;
-    font-size: 15px;
-    height: 50px;
-    padding-top: 20px;
+footer {
+  background-color: #1A3FAD;
+  grid-area: footer;
+  color: white;
+  text-align: center;
+  font-size: 10px;
+  height: 50px;
+  padding-top: 20px;
+}
+
+header {
+  position: fixed;
+  width: 100%;
+  z-index: 1;
 }
